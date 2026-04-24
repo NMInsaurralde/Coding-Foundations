@@ -1,0 +1,9 @@
+[submodule "Henry-M2"]
+	path = Henry-M2
+	url = https://github.com/NMInsaurralde/CrearYClonarDesdeGithub-2023.git
+[submodule "Henry-JS-Foundations"]
+	path = Henry-JS-Foundations
+	url = https://github.com/NMInsaurralde/fe-ct-prepcourse-fs.git
+[submodule "Mi-Primer-Repo"]
+	path = Mi-Primer-Repo
+	url = https://github.com/NMInsaurralde/MiPrimerRepositorio24-06-23.git
